@@ -112,6 +112,6 @@ This project uses **GitHub Actions** for continuous testing:
 
 ## 👤 Author
 
-**[Your Name]**  
+Amal 
 QA Engineer | Java | Selenium | TestNG  
 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/YOUR_USERNAME)
