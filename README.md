@@ -114,4 +114,5 @@ This project uses **GitHub Actions** for continuous testing:
 
 Amal 
 QA Engineer | Java | Selenium | TestNG  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/amal-a49244350) • [GitHub](https://github.com/am-qa-engineer)
+
